@@ -1,0 +1,26 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+
+# Package Files #
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+target/*
+/test-output/*
+
+
+# IDEA
+.idea/*
+.idea/workspace.xml
+WebServicesTestingRestAssured.iml
+/target/
+/bin/
+
+
+
